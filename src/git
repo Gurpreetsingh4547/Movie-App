@@ -1,0 +1,5 @@
+git status for status
+git config --global user.name "name"
+git config -- global user.email 'email'
+for commit use=  git commit -m "comment"
+ 
