@@ -1,0 +1,54 @@
+.Header
+{
+  background-color: rgba(0, 0, 0, 0.87);
+  color: red;
+  width: 100%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Header h1
+{
+  margin: 0;
+  font-weight: bold;
+  font-size: 6vmin;
+}
+.Header img 
+{
+ width:5vmin;
+ height:5vmin;
+ margin:10px;
+}
+.Footer
+{
+  background-color: rgba(0, 0, 0, 0.87);
+  color: red;
+  width: 100%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Footer h1
+{
+  margin: 0;
+  font-weight: bold;
+  font-size: 6vmin;
+}
+.Footer span
+{
+ width:5vmin;
+ height:5vmin;
+ margin:10vmin;
+ color: white;
+ font-weight: bold;
+ cursor: pointer;
+ font-size: 3vmin;
+}
+.Footer span:hover
+{
+  font-size: 3.2vmin;
+}
